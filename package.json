@@ -1,0 +1,12 @@
+{
+  "name": "practicasandres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Eduardo",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.32.3"
+  }
+}
